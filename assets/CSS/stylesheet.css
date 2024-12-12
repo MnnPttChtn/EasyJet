@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "easyJet Rounded Book";
+  src: url("/assets/fonts/easyJetRoundedBook.woff2") format("woff2"),
+    url("/assets/fonts/easyJetRoundedBook.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "easyJet Rounded Demi";
+  src: url("/assets/fonts/easyJetRoundedDemi.woff2") format("woff2"),
+    url("/assets/fonts/easyJetRoundedDemi.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "easyJet Headline";
+  src: url("/assets/fonts/easyJetHeadline.woff2") format("woff2"),
+    url("/assets/fonts/easyJetHeadline.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
